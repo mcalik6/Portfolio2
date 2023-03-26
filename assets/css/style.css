@@ -1,0 +1,13 @@
+.background {
+    width: 60%;
+    position: relative;
+    padding-left: 20%;
+    
+}
+body {
+    background-color: rgb(11, 120, 255);
+}
+.name {
+    position: relative;
+    padding:50% ;
+}
