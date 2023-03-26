@@ -1,10 +1,20 @@
 body {
     background-color: rgb(96, 150, 231);
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+        
 }
-.name {
-    padding-left: 40%;
-    padding-right: 50%;
-    padding-top: 10%;
-    
+.account-name{
+    font-weight: 700;
+    font-size: larger;
+    }
+.name { 
+    background-color: #61a7d5;
+    width: 50vw;
+    height: 50vh;
+    max-height: 450px;
+    max-width: 830px;
+    margin-left: auto;
+    margin-right: auto;    
+    padding-top: 2%;
 }
