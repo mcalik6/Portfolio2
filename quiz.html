@@ -5,13 +5,52 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="assets/css/style.css">
-    <title>Quiztime</title>
+    <title>Start Quiz</title>
     
 </head>
 <body>
-    
     <script src="assets/js/script.js"></script>
-
+    <h1>NOW ITS TIME FOR YOUR <br>
+         IRISH MOVIES QUIZ</h1>
     
+        <form id="quizanswers">
+            <div>
+                <p>In which Irish town Pierce Brosman was borned?</p>
+                <label><input type="radio" name="a1" value="0">Cavan</label>
+                <label><input type="radio" name="a1"value="1">Monoghan</label>
+                <label><input type="radio" name="a1"value="2">Navan</label>
+            </div>
+            <div>
+                <p>In which British Sitcom Tommy Tiernan plays role of "Da Gerry"</p>
+                <label><input type="radio" name="a2" value="0">"Fresh Meat"</label>
+                <label><input type="radio" name="a2"value="1">"Some Girls"</label>
+                <label><input type="radio" name="a2"value="2">"Derry Girls"</label>
+            </div>
+            <div>
+                <p>In which  movie was shoot in Trim Castle</p>
+                <label><input type="radio" name="a3" value="0">"Braveheart"</label>
+                <label><input type="radio" name="a3"value="1">"Robin Hood"</label>
+                <label><input type="radio" name="a3"value="2">"Game of Thrones"</label>
+            </div>
+
+            <div>
+                <p>What is correct name of the place where Star Wars were shoot in Ireland</p>
+                <label><input type="radio" name="a4" value="0">Dizzy Head</label>
+                <label><input type="radio" name="a4"value="1">Mizen Head</label>
+                <label><input type="radio" name="a4"value="2">Holy Head</label>
+            </div>
+
+            <div>
+                <p>Did You enjoy the quiz?</p>
+                <label><input type="radio" name="a5" value="0">"YES"</label>
+            
+            </div>
+            <button type="submit">Submit</button>
+        </form>
+
+        <div id="score">Score: 0</div>
+        <script src="assets/js/quiz.js"></script>
+
+ 
 </body>
 </html>
