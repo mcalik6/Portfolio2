@@ -5,7 +5,7 @@ const answers = [`2`, `2`, `0`, `1`];
 
 quizForm.addEventListener(`submit`, (event) => {
     event.preventDefault()
-    let.score = 0;
+    let score = 0 ;
 
 
 
@@ -18,10 +18,12 @@ const userAnswers = [
 
 userAnswers.forEach((answer, index) => {
     if (answer === answers[index]) {
-        score += 1;
+        score += 1 ;
     }
 });
 
 scoreDisplay.innerHTML = `YOure score: ${score}`;
-
+console.log(`User answer`, userAnswers);
+console.log(`Correct answers`, answers);
+console.log(`Score`, score);
 })
