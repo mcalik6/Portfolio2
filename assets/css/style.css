@@ -64,13 +64,23 @@ body {
     width: 500px;
     margin: 0 auto;
     border-radius: 10px;
+    padding-bottom: 20;
 }
-.score {border: 3px solid rgb(59, 109, 46);
+.score {
+    border: 3px solid rgb(59, 109, 46);
     background-color: rgb(131, 173, 145);
     padding: 20px;
     width: 500px;
-    margin: 20 auto;
+    margin: 10px auto;
     border-radius: 10px;
-    
 
+
+}
+.forms {
+    border: 1px solid rgb(59, 109, 46);
+    background-color: rgb(207, 219, 211);
+    padding: 20px;
+    width: 450px;
+    margin: 10px auto;
+    border-radius: 10px;
 }
