@@ -91,6 +91,10 @@ body {
 }
     .form {
         font-size: 80%;
+        width: auto;
     }
-    
+
+    }
+    .score {
+        width:auto;
 }
