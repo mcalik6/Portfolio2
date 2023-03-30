@@ -26,7 +26,7 @@ userAnswers.forEach((answer, index) => {
     }
 });
 
-scoreDisplay.innerHTML = `Youre score: ${score}`;
+scoreDisplay.innerHTML = `Your score: ${score}`;
 scoreDisplay.style.fontSize = "24px";
 console.log(`User answer`, userAnswers);
 console.log(`Correct answers`, answers);
