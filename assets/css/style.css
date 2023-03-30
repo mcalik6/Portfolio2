@@ -92,9 +92,17 @@ body {
     .form {
         font-size: 80%;
         width: auto;
-    }
-
+        padding: 0, auto;
+        margin: 0, auto;
     }
     .score {
         width:auto;
 }
+.forms {
+    font-size: 80%;
+    width: auto;
+    padding: 0, auto;
+    margin: 0, auto;
+}
+
+    }
