@@ -2,6 +2,9 @@
 
 This Project is an online quiz about Irish movies and TV shows, it includes HTML, CSS and Java Script
 
+![image](https://user-images.githubusercontent.com/116521971/228884424-93926ee5-1f6b-4700-9ed6-708bd4c0c471.png)
+
+
 
 
 # FEATURES
@@ -40,6 +43,22 @@ File 1  - name.js
 
 File 2 - script.js
 ![image](https://user-images.githubusercontent.com/116521971/228882971-55fa82bd-7499-462a-adbc-5313d9e2afaf.png)
+
+# Accesibility
+
+Page1 
+
+![image](https://user-images.githubusercontent.com/116521971/228883568-29405eba-62a7-4573-9fa2-a7a5713379d0.png)
+
+Page 2
+
+![image](https://user-images.githubusercontent.com/116521971/228883848-f5e07828-6926-4a43-b902-af55d4208b7c.png)
+
+
+
+
+
+
 
 
 
