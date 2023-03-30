@@ -3,15 +3,19 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: 600;
     color: rgb(35, 78, 35);
-    background-color: aquamarine;
+    background-color: rgb(144, 165, 153);
+    background-image: url("../photos/back2.png"); 
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 .form-box {
-    border: 1px solid rgb(59, 109, 46);
-background-image:  url(assets/photos/background.png);
+    border: 3px solid rgb(59, 109, 46);
+    background-color: rgb(131, 173, 145);
     padding: 20px;
     width: 300px;
     margin: 0 auto;
+    border-radius: 10px;
     
 }
 
@@ -25,5 +29,31 @@ background-image:  url(assets/photos/background.png);
     margin: 10px;
     font-size: large;
     color: rgb(182, 236, 180);
-}
+    border-radius: 20px;
 
+}
+.nametext {
+    border-color: rgb(6, 39, 6);
+    background-color: rgb(172, 187, 169);
+    padding-top: 10px; 
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 10px;
+    font-size: large;
+    color: rgb(22, 26, 22);
+    border-radius: 10px;
+
+}
+.hello {
+    border-color: rgb(6, 39, 6);
+    background-color: rgb(172, 187, 169);
+    padding-top: 10px; 
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 10px;
+    font-size: large;
+    color: rgb(22, 26, 22);
+    border-radius: 10px;
+}
