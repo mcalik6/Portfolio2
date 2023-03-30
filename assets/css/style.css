@@ -5,7 +5,6 @@ body {
     color: rgb(35, 78, 35);
     background-color: rgb(144, 165, 153);
     background-image: url("../photos/back2.png"); 
-    background-repeat: no-repeat;
     background-size: cover;
 
 }
@@ -83,4 +82,15 @@ body {
     width: 450px;
     margin: 10px auto;
     border-radius: 10px;
+}
+
+@media screen and (max-width: 950px) {
+#body{
+    width: 80%;
+    font-size: 1.2em;
+}
+    .form {
+        font-size: 80%;
+    }
+    
 }
