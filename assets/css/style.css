@@ -1,4 +1,29 @@
 body {
     text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    color: rgb(35, 78, 35);
+    background-color: aquamarine;
+
+}
+.form-box {
+    border: 1px solid rgb(59, 109, 46);
+background-image:  url(assets/photos/background.png);
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+    
+}
+
+.subbtn {
+    border-color: rgb(6, 39, 6);
+    background-color: rgb(93, 136, 84);
+    padding-top: 10px; 
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 10px;
+    font-size: large;
+    color: rgb(182, 236, 180);
 }
 
